@@ -1,8 +1,8 @@
 ﻿Console.Clear();
 Console.Write("Введите число: ");
-int a = Convert.ToInt32(Console.ReadLine());
-int a1 =2;
-while (a>=a1){
-    Console.WriteLine(a1);
-    a1=a1+2;
+int N = Convert.ToInt32(Console.ReadLine());
+int N1 =2;
+while (N>=N1){
+    Console.WriteLine(N1);
+    N1=N1+2;
 }
